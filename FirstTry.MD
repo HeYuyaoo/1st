@@ -9,7 +9,7 @@ public class MyFirstClass{
 ## String
 
 
-## Aray
+## Array
 
 
 ## ArrayList
